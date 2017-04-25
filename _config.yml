@@ -11,3 +11,4 @@ collections:
 name: Matthew Green, tech enthusiast
 markdown: kramdown
 permalink: "/blog/:year/:month/:day/:title"
+theme: particle
