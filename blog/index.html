@@ -9,7 +9,7 @@ layout: default
 	  {% for post in site.posts %}
 	    <li><font size="3"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></font>
 		    <i><font size="1">{{ post.excerpt }}</font></i>
-		    <font size="1" color="grey"><span>{{ post.date | date_to_string }}</span></font>
+		    <font size="1" color="grey"><!--<span>-->{{ post.date | date_to_string }}<!--</span>--></font>
 		</li>
 	  {% endfor %}
 	</ul>
