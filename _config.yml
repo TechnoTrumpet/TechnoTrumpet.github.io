@@ -12,3 +12,4 @@ name: Matthew Green, tech enthusiast
 markdown: kramdown
 permalink: "/blog/:year/:month/:day/:title"
 excerpt_separator: <!--more-->
+url: http://technotrumpet.github.io/
