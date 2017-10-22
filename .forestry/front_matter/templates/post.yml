@@ -1,0 +1,29 @@
+---
+pages:
+- _posts/2017-07-20-changes.md
+hide_body: false
+fields:
+- type: text
+  name: post_title
+  label: Post Title
+  config:
+    required: true
+- type: datetime
+  name: date
+  default: 2017-07-20 14:55:45 +0000
+  label: Date
+- type: tag_list
+  name: categories
+  label: Categories
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - posts
+    - default
+  label: Layout
+  hidden: true
+  default: posts

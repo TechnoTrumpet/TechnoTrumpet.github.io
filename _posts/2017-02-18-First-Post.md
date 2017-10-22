@@ -1,6 +1,6 @@
 ---
 title: Site Launch
-date: '2017-02-18T00:00:00.000+00:00'
+date: 2017-02-18 00:00:00 +0000
 layout: posts
 ---
 
