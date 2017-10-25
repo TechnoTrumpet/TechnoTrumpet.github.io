@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/technotrumpet
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://technotrumpet.netlify.com
+  * I am technotrumpet (https://keybase.io/technotrumpet) on keybase.
+  * I have a public key ASBL7hZyv9EbtC6tbaeSckVWRB4IqBVKfkSvwsmHChU0Uwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c4c91197214a8bb946de19fdafc56792781ec865573ff854350134cef274cc860a",
+      "host": "keybase.io",
+      "kid": "01204bee1672bfd11bb42ead6da792724556441e08a8154a7e44afc2c9870a1534530a",
+      "uid": "52541095aa39b20aeca39f13407e4e19",
+      "username": "technotrumpet"
+    },
+    "merkle_root": {
+      "ctime": 1508892497,
+      "hash": "cc3f9004afe6e60236188e27eca56b8347fff7cf1c19d1bda7287c1ca1c3ef98cefafa0c131b3d76df938faffebc798f543131257f2ba72d2d09012fd0ccfa87",
+      "hash_meta": "e93a9eada2fb90e49d55606ca482f5e7902536dd3679a78a0f67fc7e5793f4f8",
+      "seqno": 1625444
+    },
+    "service": {
+      "hostname": "technotrumpet.netlify.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1508892507,
+  "expire_in": 504576000,
+  "prev": "0b65a15bc106dabf532d2761cd2495a04e3a38c4661dece5a8b3f68e9b202b86",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgS+4Wcr/RG7QurW2nknJFVkQeCKgVSn5Er8LJhwoVNFMKp3BheWxvYWTFA1d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzRjOTExOTcyMTRhOGJiOTQ2ZGUxOWZkYWZjNTY3OTI3ODFlYzg2NTU3M2ZmODU0MzUwMTM0Y2VmMjc0Y2M4NjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNGJlZTE2NzJiZmQxMWJiNDJlYWQ2ZGE3OTI3MjQ1NTY0NDFlMDhhODE1NGE3ZTQ0YWZjMmM5ODcwYTE1MzQ1MzBhIiwidWlkIjoiNTI1NDEwOTVhYTM5YjIwYWVjYTM5ZjEzNDA3ZTRlMTkiLCJ1c2VybmFtZSI6InRlY2hub3RydW1wZXQifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDg4OTI0OTcsImhhc2giOiJjYzNmOTAwNGFmZTZlNjAyMzYxODhlMjdlY2E1NmI4MzQ3ZmZmN2NmMWMxOWQxYmRhNzI4N2MxY2ExYzNlZjk4Y2VmYWZhMGMxMzFiM2Q3NmRmOTM4ZmFmZmViYzc5OGY1NDMxMzEyNTdmMmJhNzJkMmQwOTAxMmZkMGNjZmE4NyIsImhhc2hfbWV0YSI6ImU5M2E5ZWFkYTJmYjkwZTQ5ZDU1NjA2Y2E0ODJmNWU3OTAyNTM2ZGQzNjc5YTc4YTBmNjdmYzdlNTc5M2Y0ZjgiLCJzZXFubyI6MTYyNTQ0NH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ0ZWNobm90cnVtcGV0Lm5ldGxpZnkuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDg4OTI1MDcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMGI2NWExNWJjMTA2ZGFiZjUzMmQyNzYxY2QyNDk1YTA0ZTNhMzhjNDY2MWRlY2U1YThiM2Y2OGU5YjIwMmI4NiIsInNlcW5vIjoyNCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDazY/hyfeTWlP40H0Dmg0Ro0PGL6xCx4dGIxCASVegizdp5+pJzYaVCVU+aAnfQ8IO+LNVCHSNVUU7g5nghh8OqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgKH1AbAxlB2cuBtd0k/YbJErQWrxBzr9MQ/kFUiF1tQ+jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/technotrumpet
+
+==================================================================
