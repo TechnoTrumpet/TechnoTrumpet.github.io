@@ -6,7 +6,7 @@ layout: null
   <channel>
     <title>TechnoTrumpet-Blog</title>
     <description>A tech veteran's journeys in coding</description>
-    <link>{{ site.url }}</link>
+    <link>technotrumpet.netlify.com</link>
     {% for post in site.posts %}
       {% unless post.draft %}
         <item>
