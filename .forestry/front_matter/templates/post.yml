@@ -1,7 +1,7 @@
 ---
-pages:
-- _posts/2017-07-20-changes.md
+label: post
 hide_body: false
+is_partial: false
 fields:
 - type: text
   name: post_title
@@ -27,3 +27,5 @@ fields:
   label: Layout
   hidden: true
   default: posts
+pages:
+- _posts/2017-07-20-changes.md
